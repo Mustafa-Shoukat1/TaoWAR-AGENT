@@ -1,0 +1,24 @@
+[
+  {
+    "rank": 1,
+    "name": "PlanB",
+    "handle": "@100TRILLIONUSD",
+    "followers": 2125376,
+    "likes": 1403,
+    "retweets": 191,
+    "replies": 86,
+    "quotes": 8,
+    "engagement_rate": 100
+  },
+  {
+    "rank": 2,
+    "name": "Altcoin Daily",
+    "handle": "@AltcoinDaily",
+    "followers": 1931481,
+    "likes": 1246,
+    "retweets": 670,
+    "replies": 284,
+    "quotes": 19,
+    "engagement_rate": 100
+  }
+]
