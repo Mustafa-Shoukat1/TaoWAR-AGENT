@@ -4,8 +4,31 @@
 
 ---
 
+## What Is This? (Plain English)
+
+Imagine you want to stay on top of everything happening in the crypto world on X (Twitter), but there are hundreds of influencers posting thousands of tweets every day. Reading all of that yourself would be impossible.
+
+**TaoWAR-AGENT does that job for you, automatically.** Here's the simple version:
+
+1. **It watches crypto influencers on X.** You give it a list of Twitter/X accounts to follow (up to 120 people — think popular crypto traders, analysts, and news accounts). It checks their tweets every day.
+
+2. **It reads and understands those tweets using AI.** The system sends every tweet to OpenAI's GPT-4o (a smart AI model) and asks: "Is this tweet about crypto? What topic is it about — Bitcoin? Ethereum? DeFi? NFTs?" Irrelevant tweets get tossed aside; relevant ones get sorted into categories.
+
+3. **It writes summaries of what's happening.** Once tweets are sorted by topic, the AI writes a short, easy-to-read summary for each category — like a mini news digest for Bitcoin, another for Ethereum, another for DeFi, and so on.
+
+4. **It posts those summaries back to X automatically.** Every afternoon, the system publishes the summaries to a Twitter/X account (branded as "Lady Kaede") so followers can get a quick daily update on what's happening in crypto — without reading hundreds of tweets themselves.
+
+5. **It also creates daily and weekly reports.** Think of these like a newsletter: a daily overview of the crypto market and a weekly trend analysis, all written by AI and posted automatically.
+
+6. **Everything runs on autopilot.** A built-in scheduler handles the entire process — scraping in the early morning, analyzing during the day, and posting in the afternoon. You set it up once and it runs by itself, every day, without you having to do anything.
+
+**In short:** TaoWAR-AGENT is a robot that reads crypto Twitter for you, figures out what's important, writes a summary, and posts it — every single day, automatically.
+
+---
+
 ## Table of Contents
 
+- [What Is This? (Plain English)](#what-is-this-plain-english)
 - [System Overview](#system-overview)
 - [How It Works](#how-it-works)
 - [Architecture](#architecture)
